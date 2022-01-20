@@ -1,7 +1,8 @@
 
-## Hi there 👋
+# Hi there 👋
 
-# I'm Zoey Xiao, a Web Developer with background in Journalism and Aviation.
+## I am Zoey Xiao Zheng 
+## a Web Developer with background in Journalism and Aviation.
 
 - 👩🏻‍💻  I’m currently looking for a Web Developer job
 - 🏄🏼‍♀️  I’m currently learning TypeScript and Snowboarding
