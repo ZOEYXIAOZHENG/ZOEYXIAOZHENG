@@ -1,5 +1,8 @@
+ # Hi, I am Xiao Zheng
+ ### Here is more information about me:
+    
     const me = {
-        greetings: "Hello there, I am Xiao Zheng ",
+        greetings: "Hello there, 你好 ",
         whoAmI: "a Web Developer with strong passion in coding.",
         aboutMe: [
             "🏄🏼‍♀️  I’m learning TypeScript and Snowboarding.",
