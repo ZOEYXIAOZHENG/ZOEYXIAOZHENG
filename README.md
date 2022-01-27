@@ -27,8 +27,8 @@
                 certificate: "Full stack Web Developer",
                 date: "Sep 2021 - Dec 2021",
             },
-            "Hubei Normal University ": {
-                degree: "Bachelor's degree in Journalism ",
+            "Hubei Normal University": {
+                degree: "Bachelor's degree in Journalism",
                 date: "Sep 2007 - Jul 2011",
             },
         },
