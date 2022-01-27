@@ -1,6 +1,6 @@
 
 # Hi there, I am Xiao Zheng 
-### a junior Web Developer with a background in Journalism and Aviation.
+### a Web Developer with a background in Journalism and Aviation.
 
  
 - 🏄🏼‍♀️  I’m learning TypeScript and Snowboarding.
