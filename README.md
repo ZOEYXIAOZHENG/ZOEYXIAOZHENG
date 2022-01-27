@@ -1,6 +1,6 @@
     const me = {
         greetings: "Hello there, I am Xiao Zheng ",
-        whoAmI: "I am a Web Developer with strong passion in coding.",
+        whoAmI: "a Web Developer with strong passion in coding.",
         aboutMe: [
             "🏄🏼‍♀️  I’m learning TypeScript and Snowboarding.",
             "👩🏻‍💻  I’m currently looking for a frontend Web Developer job.",
