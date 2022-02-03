@@ -6,7 +6,7 @@ const me = {
     whoAmI: "a Web Developer with strong passion in coding.",
     aboutMe: [
         "🏄🏼‍♀️  I’m learning TypeScript and snowboarding.",
-        "👩🏻‍💻  I’m currently looking for a Frontend Web Developer job.",
+        "👩🏻‍💻  I’m currently looking for a software engineering job.",
         "🌵  I like cats, green plants, swimming and creative design.",
         "💬  Ask me about airplanes, travel and Asia.",
     ],
