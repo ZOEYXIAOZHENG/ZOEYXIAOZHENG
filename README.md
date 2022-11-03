@@ -24,16 +24,7 @@ const me = {
         "JQuery",
         "PostgreSQL",
     ],
-    education: {
-        "SPICED Academy": {
-            certificate: "Full Stack Web Developer",
-            date: "Sep 2021 - Dec 2021",
-        },
-        "Hubei Normal University": {
-            degree: "Bachelor's degree in Journalism",
-            date: "Sep 2007 - Jul 2011",
-        },
-    },
+        
     contactMe: {
         email: "xiaozheng.zoey@gmail.com",
         linkedIn: "https://www.linkedin.com/in/xz01/",
